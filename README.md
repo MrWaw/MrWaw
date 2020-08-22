@@ -1,5 +1,3 @@
-
-
 <!--
 **MrWaw
 
@@ -24,7 +22,7 @@ Social
 <img src="https://cdn.discordapp.com/emojis/650784029154738210.gif?v=1">
   </a><br>
   📝  Repos: 7<br>  📝
-  😲  Followers: 1<br>  😲
+  😲  Followers: 1<br> 😲
 </p>
 <div class="display">
 <h1 style="text-align: center;" align="center"> Info </h1>
